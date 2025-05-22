@@ -1,0 +1,29 @@
+__________________________________________________________________________________________________________________________________
+|                                                                                                                                 |     
+|                                                       DESIGN                                                                    |                                 
+|_________________________________________________________________________________________________________________________________|
+
+___________________________________________________   FUNCTIONS ____________________________________________________________________
+
+
+                            1. Create <WelcomeMessage> function to display the welcome.
+                                *  Generic String function that takes a message parameter
+                                and returns the message.
+                            2. Create <Rules> function that will manage will implement the options:
+                            3. Create <RamdomNumber> function to generate the ramdom value
+                            4. Create <Difficulty> function to display the levels of difficulty.
+                                * I will implement a type with: Easy | Medium | Hard levels, to determine
+                                * the `LEVEL` of changes the user will have to determine the level of changes
+                                * NOTE: In order to void extra-complexity, don't use too many nested functions calls, just one match.
+                            5. Generic function <CaptureGuess> that will just be a simple IO imput function
+                                To get the user attempts
+                            6. Create a function to CONGRATULATE the user when winning
+                            7. How to register the number of attempts?
+                                * Function that sets a counter every time the user pushes the answer
+                            8. * The same function should check for the available attempts - current number of attempts,
+                                - If the number of current_attemps == allowed_attempts, then finish.
+                            9. The <Main> function will control the game flow and will run a recursive function
+                                that will keep checking until running out of atempts
+
+____________________________________________________________________________________________________________________________________
+    

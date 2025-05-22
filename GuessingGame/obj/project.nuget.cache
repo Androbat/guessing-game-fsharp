@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HR/Eo5o/qqY=",
+  "success": true,
+  "projectFilePath": "/home/manuel/Documents/programming/Programming_projects/fsharp/guessing-game-fsharp/GuessingGame/GuessingGame.fsproj",
+  "expectedPackageFiles": [
+    "/home/manuel/.nuget/packages/fsharp.core/8.0.403/fsharp.core.8.0.403.nupkg.sha512"
+  ],
+  "logs": []
+}
